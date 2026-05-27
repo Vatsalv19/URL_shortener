@@ -29,3 +29,7 @@
 **Asked:** "How to proxy /api to a local Express server in Vite"
 **Got:** Vite proxy config example
 **What I did:** Added the proxy so the frontend can call /api without CORS issues in dev.
+
+## Summary
+GitHub Copilot helped me validate URL storage in SQLite, test API routes with curl, understand how the recent-links UI works, and draft a complete README. It also guided me on where the URLs are stored, how to view them.
+
