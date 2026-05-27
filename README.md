@@ -16,7 +16,8 @@ Screenshots:
 
 ![Short link + recent list](screenshots/screen-2.png)
 
-Screen recording:
+Screen recording: 
+**Note:** GitHub does not render this MP4 in the README. Please download the demo video to view it. 
 
 [screenshots/screen-recording.mp4](screenshots/screen-recording.mp4)
 
